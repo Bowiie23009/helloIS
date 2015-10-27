@@ -6,7 +6,7 @@ void main(){
         scanf("%f",&num1);
 	printf("Please enter second number: ");
         scanf("%f",&num2);
-	printf("Please select your operator (choice 1-4).\n");
+	printf("Please select your operator (choice 1-4)\n");
         printf("1) +\n2) -\n3) *\n4) /\n");
         scanf("%d",&oprt);
 	if(oprt == 1)
