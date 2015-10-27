@@ -11,7 +11,7 @@ echo "3. Multiply"
 echo "4. Divide"
 read oprt
 
-echo "Please insert second number"
+echo "Please insert second number."
 read num2
 
 if [ $oprt = "1" ]
@@ -29,4 +29,3 @@ elif [ $oprt = "4" ]
 
 fi
 exit 0
-
