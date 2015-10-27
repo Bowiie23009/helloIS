@@ -1,7 +1,7 @@
 <html>
 	<title>HelloIS PHP Calculator</title>
         <h1>HelloIS PHP Calcualtor</h1>
-        <p>Enter numbers and press Submit to calculate.</p>
+        <p>Enter numbers and press Submit to calculate</p>
 	<form method="POST" action="calculator.php">
 		<input type ="text" name="first">
 		<select name ="operator">
