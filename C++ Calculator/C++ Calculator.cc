@@ -33,7 +33,7 @@ int Calculator::calculate()
 		case '/' : result = num1 / num2;
 			   std::cout << "result = " << result << "\n";
 		break;
-		default: std::cout << "Invalid operator!. \n";
+		default: std::cout << "Invalid operator! \n";
 	}
 	return 0;
 }
